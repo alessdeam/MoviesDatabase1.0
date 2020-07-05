@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="example" uuid="8af6da09-3a3d-463a-a983-deb2051d8ce3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\alede\OneDrive\Desktop\Tesi\MoviesWithDb\example.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="movies" uuid="49988587-4e84-43d3-9c7f-28d20958f517">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\alede\OneDrive\Desktop\Tesi\MoviesWithDb\movies.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
